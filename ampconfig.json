@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.3",
+  "appInfo": {
+    "name": "pura-vida",
+    "description": "",
+    "version": "ghowv5n2",
+    "id": "cl1f8krzp97936701s6gstsar4r",
+    "url": "https://app.amplication.com/cl1f8krzp97936701s6gstsar4r",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl1f8krzp97936701s6gstsar4r",
+      "authProvider": "Jwt"
+    }
+  }
+}
